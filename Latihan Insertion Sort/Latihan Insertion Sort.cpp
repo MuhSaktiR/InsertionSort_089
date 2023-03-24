@@ -30,5 +30,5 @@ void input() {
 }
 
 void insertionsort() {
-
+	int temp;
 }
